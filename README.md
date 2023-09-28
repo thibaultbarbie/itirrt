@@ -6,6 +6,7 @@
 ██║░░██║██║╚██╔╝██║██╔══██╗██║░░██║██║╚████║
 ╚█████╔╝██║░╚═╝░██║██║░░██║╚█████╔╝██║░╚███║
 ░╚════╝░╚═╝░░░░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚══╝
+This repository is a product of the Technology and Intellectual Property H.Q. at OMRON Corporation.
 ```
 # Installation
 
