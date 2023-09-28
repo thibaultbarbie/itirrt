@@ -22,6 +22,8 @@ Finally, in `ompl/src/ompl/CMakeLists.txt` please add `${TORCH_LIBRARIES}` in th
 
 We provide a minimal example on a very simple planning problem to demonstrate how to use our planner.
 
+![example](https://github.com/thibaultbarbie/itirrt/assets/8063351/c26ffd75-9b97-4a17-8a8b-d773ed460138)
+
 The planning problem is to go from the start state to the goal state through a narrow tunnel. 
 
 Please execute the `training.py` to train an MLP model that outputs a path depending on the high of the tunnel. Then, please place the `UsingITIRRT.cpp" file in the demos folder of ompl and add the following to the CMakeLists.txt:
